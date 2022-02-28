@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminOyarzun17, I'm a chilean mathematics student, who is trying to get better at coding :D. 
 - 👀 I’m interested in web development, competitive programming, mobile development and ethical hacking. 
-- 🌱 I’m currently learning Typescript, Flutter and bash.
+- 🌱 I’m currently learning Typescript, Flutter and Bash scripting (by ricing my ubuntu). 
 
 
 <!---
