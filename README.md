@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenjaminOyarzun17, I'm a chilean computer science student at the RWTH Aachen, Germany (freshman year). 
+- 👋 Hi, I’m @BenjaminOyarzun17, I'm a chilean computer science student at the RWTH Aachen, Germany (fourth semester). 
 - 👀 I’m interested in maths and algorithms. 
 - 🌱 I’m currently doing a lot of work for university, but also I do competitive programming and rice my Arch (btw) whenever I have free time. 
 
