@@ -3,8 +3,8 @@
 - 🌱 I’m currently doing a lot of work for university, but also I do competitive programming and rice my Arch (btw) whenever I have free time. 
 
 
-<div align= "center>
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn-o-73634a22b?style=for-the-badge&logo=linkedin&label=LINKEDIN)
+<div align= "center">
+  <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn-o-73634a22b?style=for-the-badge&logo=linkedin&label=LINKEDIN" align="center" />
 </div>
 
 <div align="center">
