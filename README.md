@@ -1,4 +1,4 @@
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BenjaminOyarzun17&theme=dracula&show_icons=true&hide_border=true&count_private=true">]
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BenjaminOyarzun17&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 - Hi, I’m @BenjaminOyarzun17, I'm a chilean computer science student at the RWTH Aachen, Germany (fourth semester).
 - I’m interested in math, algorithms and AI.
 - I’m currently doing a lot of work for university, but also I do competitive programming and rice my Arch whenever I have free time.
