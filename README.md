@@ -8,7 +8,7 @@
 <br/>
 
 
-<div align="center" style="flex-direction:row">
+<div align="center" style="flex-direction:row; justify-content:space-around">
 <a href = "https://www.linkedin.com/in/benjam%C3%ADn-o-73634a22b" align= "center" target= "_blank" >
   <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenjam%25C3%25ADn-o-73634a22b?style=for-the-badge&logo=linkedin&label=LINKEDIN" align="center" />
 </a>
