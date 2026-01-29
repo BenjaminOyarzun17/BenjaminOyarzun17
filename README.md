@@ -1,8 +1,9 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BenjaminOyarzun17&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 <ul>
-  <li>Hi, I’m @BenjaminOyarzun17, I'm a chilean computer science student at the RWTH Aachen, Germany (fourth semester).</li>
-  <li>I’m interested in math, algorithms and AI.</li>
-  <li>I’m currently doing a lot of work for university, but also I do competitive programming and rice my Arch whenever I have free time.</li>
+  <li>Hi, I’m @BenjaminOyarzun17, I'm a chilean master's Computer Science student at the RWTH Aachen, Germany (first semester).</li>
+  <li>I completed my bachelors also at RWTH Aachen.</li></li>
+  <li>I’m interested in time series data, such as event data, tickers and speech data.</li>
+  <li>I’m the developer Team Lead at the Aachen Investment Club.</li>
 </ul>
 
 <br/>
